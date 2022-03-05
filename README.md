@@ -11,7 +11,9 @@ You can download it from here  (https://chrome.google.com/webstore/detail/metama
 
 # Steps:-
 ## Step-1
-Add the custom Harmony test network through the metamask
+go to the url(https://mumbai.polygonscan.com/) then click right footer on the add to metamask option.
+other wise:-
+Add the custom polygon test network through the metamask
 * Network Name: ```Polygon Testnet```
 * New RPC URL:```https://matic-mumbai.chainstacklabs.com```
 * Chain ID:```80001```
