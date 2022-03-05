@@ -22,7 +22,7 @@ Add the custom polygon test network through the metamask
 ## Step-2
 * Copy the address from metamask
 Add some testnet MATIC token to use this project
-* You can add some MATIC token by using this URL (https://faucet.polygon.technology/)
+* You can add some MATIC token by using this URL (https://testmatic.vercel.app/)
 
 ## Step-3
 Now you and your friend login to this project you can chat through the blockchain technology by paying a small amount of MATIC token.
