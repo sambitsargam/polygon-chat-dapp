@@ -1,7 +1,7 @@
 # Create a Chatting DApp using Solidity and ReactJS with the Polygon Blockchain
 
 ## Introducation
-In this Project, i built a Decentralized chatting application on Polygon(mumbai) test-network from scratch. The DApp will allow users to connect with other people and chat with them. We will develop our smart contract using Solidity which will be deployed on Harmony chain. We will have a basic, easy-to-use UI developed using ReactJS. So, let us begin!
+In this Project, i built a Decentralized chatting application on Polygon(mumbai) test-network from scratch. The DApp will allow users to connect with other people and chat with them. We will develop our smart contract using Solidity which will be deployed on polygon chain. We will have a basic, easy-to-use UI developed using ReactJS. So, let us begin!
 
 ## Prerequisites
 * Metamask extension on your browser
